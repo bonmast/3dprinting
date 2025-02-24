@@ -1,2 +1,2 @@
-# 3D Printer
-3D Printer Information
+# 3D Printing
+3D printing information
