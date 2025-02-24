@@ -1,0 +1,20 @@
+# Filament
+
+## Bambu Lab - PLA Basic
+
+| Image | Colour | Code | Stock |
+| -- | -- | -- | -- |
+| [![filament](https://store.bblcdn.com/s4/default/46d433c870c745e793f4b3e47daaa47e/White.jpg__op__resize,m_lfit,w_160__op__format,f_auto__op__quality,q_80)](https://uk.store.bambulab.com/products/pla-basic-filament?id=40589883768892) | **Jade White** | `10100` | ✅ In stock |
+| [![filament](https://store.bblcdn.com/4a92c183e8214d2b9315e584e27f427d.png__op__resize,m_lfit,w_160__op__format,f_auto__op__quality,q_80)](https://uk.store.bambulab.com/products/pla-basic-filament?id=40621342294076) | **Bambu Green** | `10501` | ✅ In stock |
+| [![filament](https://store.bblcdn.com/be370ef458094855b7c84785b4eed33e.png__op__resize,m_lfit,w_160__op__format,f_auto__op__quality,q_80)](https://uk.store.bambulab.com/products/pla-basic-filament?id=40674109751356) | **Gray** | `10103` | ✅ In stock |
+| [![filament](https://store.bblcdn.com/s4/default/4db8074286234fd4bb3dbe80233fd02f/Beige.jpg__op__resize,m_lfit,w_160__op__format,f_auto__op__quality,q_80)](https://uk.store.bambulab.com/products/pla-basic-filament?id=40206189166652) | **Beige** | `10201` | 🚚 On order |
+| [![filament](https://store.bblcdn.com/s4/default/0972d26b04154c4ab58dc34ca9c8a57a/Yellow.jpg__op__resize,m_lfit,w_160__op__format,f_auto__op__quality,q_80)](https://uk.store.bambulab.com/products/pla-basic-filament?id=40206189232188) | **Yellow** | `10400` | 🚚 On order |
+| [![filament](https://store.bblcdn.com/s4/default/97b8ccd624a343adbec5f0eaa7751629/Orange.jpg__op__resize,m_lfit,w_160__op__format,f_auto__op__quality,q_80)](https://uk.store.bambulab.com/products/pla-basic-filament?id=40206189068348) | **Orange** | `10300` | 🚚 On order |
+| [![filament](https://store.bblcdn.com/f1ce4aad7ed6499ca6eee48877d190a8.png__op__resize,m_lfit,w_160__op__format,f_auto__op__quality,q_80)](https://uk.store.bambulab.com/products/pla-basic-filament?id=41465098207292) | **Cyan** | `10603` | 🚚 On order |
+
+## Bambu Lab - PLA Matte
+
+| Image | Colour | Code | Stock |
+| -- | -- | -- | -- |
+| [![filament](https://store.bblcdn.com/58ff3e8e82db4579b82499e96be06ed0.png__op__resize,m_lfit,w_160__op__format,f_auto__op__quality,q_80)](https://uk.store.bambulab.com/products/pla-matte?id=40215560978492) | **Matte Charcoal** | `11101` | ✅ In stock |
+| [![filament](https://store.bblcdn.com/73c8ed29287a4584acf61b6fcfbe7a4e.png__op__resize,m_lfit,w_160__op__format,f_auto__op__quality,q_80)](https://uk.store.bambulab.com/products/pla-matte?id=40215561076796) | **Matte Scarlet Red** | `11200` | ✅ In stock |
